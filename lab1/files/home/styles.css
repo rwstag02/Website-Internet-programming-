@@ -1,0 +1,902 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:static;
+  left:auto;
+  width:1000px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u0_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:960px;
+  height:81px;
+  background:inherit;
+  background-color:rgba(242, 242, 242, 1);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u0 {
+  border-width:0px;
+  position:absolute;
+  left:40px;
+  top:-8px;
+  width:960px;
+  height:81px;
+}
+#u0_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u1_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:173px;
+  height:52px;
+}
+#u1 {
+  border-width:0px;
+  position:absolute;
+  left:65px;
+  top:6px;
+  width:173px;
+  height:52px;
+  font-family:'Book Antiqua Обычный', 'Book Antiqua';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+}
+#u1_text {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:17px;
+  width:169px;
+  word-wrap:break-word;
+}
+#u2_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:415px;
+  height:53px;
+}
+#u2 {
+  border-width:0px;
+  position:absolute;
+  left:137px;
+  top:167px;
+  width:415px;
+  height:53px;
+  font-family:'Book Antiqua Обычный', 'Book Antiqua';
+  font-weight:400;
+  font-style:normal;
+  font-size:36px;
+  color:#434343;
+  text-align:center;
+}
+#u2_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:415px;
+  word-wrap:break-word;
+}
+#u3_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:54px;
+  height:16px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Book Antiqua Полужирный', 'Book Antiqua Обычный', 'Book Antiqua';
+  font-weight:700;
+  font-style:normal;
+  font-size:13px;
+  text-decoration:underline;
+}
+#u3 {
+  border-width:0px;
+  position:absolute;
+  left:303px;
+  top:42px;
+  width:54px;
+  height:16px;
+  font-family:'Book Antiqua Полужирный', 'Book Antiqua Обычный', 'Book Antiqua';
+  font-weight:700;
+  font-style:normal;
+  font-size:13px;
+  text-decoration:underline;
+}
+#u3_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:54px;
+  white-space:nowrap;
+}
+#u4_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:64px;
+  height:16px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Book Antiqua Полужирный', 'Book Antiqua Обычный', 'Book Antiqua';
+  font-weight:700;
+  font-style:normal;
+  font-size:13px;
+  text-decoration:underline;
+}
+#u4 {
+  border-width:0px;
+  position:absolute;
+  left:665px;
+  top:42px;
+  width:64px;
+  height:16px;
+  font-family:'Book Antiqua Полужирный', 'Book Antiqua Обычный', 'Book Antiqua';
+  font-weight:700;
+  font-style:normal;
+  font-size:13px;
+  text-decoration:underline;
+}
+#u4_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:64px;
+  white-space:nowrap;
+}
+#u5_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:16px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Book Antiqua Полужирный', 'Book Antiqua Обычный', 'Book Antiqua';
+  font-weight:700;
+  font-style:normal;
+  font-size:13px;
+  text-decoration:underline;
+}
+#u5 {
+  border-width:0px;
+  position:absolute;
+  left:536px;
+  top:42px;
+  width:79px;
+  height:16px;
+  font-family:'Book Antiqua Полужирный', 'Book Antiqua Обычный', 'Book Antiqua';
+  font-weight:700;
+  font-style:normal;
+  font-size:13px;
+  text-decoration:underline;
+}
+#u5_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:79px;
+  white-space:nowrap;
+}
+#u6_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:127px;
+  height:18px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Book Antiqua Полужирный', 'Book Antiqua Обычный', 'Book Antiqua';
+  font-weight:700;
+  font-style:normal;
+  font-size:14px;
+  text-decoration:underline;
+}
+#u6 {
+  border-width:0px;
+  position:absolute;
+  left:829px;
+  top:40px;
+  width:127px;
+  height:18px;
+  font-family:'Book Antiqua Полужирный', 'Book Antiqua Обычный', 'Book Antiqua';
+  font-weight:700;
+  font-style:normal;
+  font-size:14px;
+  text-decoration:underline;
+}
+#u6_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:127px;
+  white-space:nowrap;
+}
+#u7_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:70px;
+  height:16px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Book Antiqua Полужирный', 'Book Antiqua Обычный', 'Book Antiqua';
+  font-weight:700;
+  font-style:normal;
+  font-size:13px;
+  text-decoration:underline;
+}
+#u7 {
+  border-width:0px;
+  position:absolute;
+  left:417px;
+  top:42px;
+  width:70px;
+  height:16px;
+  font-family:'Book Antiqua Полужирный', 'Book Antiqua Обычный', 'Book Antiqua';
+  font-weight:700;
+  font-style:normal;
+  font-size:13px;
+  text-decoration:underline;
+}
+#u7_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:70px;
+  white-space:nowrap;
+}
+#u8_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:265px;
+  height:265px;
+}
+#u8 {
+  border-width:0px;
+  position:absolute;
+  left:691px;
+  top:175px;
+  width:265px;
+  height:265px;
+}
+#u8_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u9_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:300px;
+  height:129px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u9 {
+  border-width:0px;
+  position:absolute;
+  left:194px;
+  top:269px;
+  width:300px;
+  height:129px;
+}
+#u9_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:300px;
+  word-wrap:break-word;
+}
+#u11_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:960px;
+  height:180px;
+  background:inherit;
+  background-color:rgba(242, 242, 242, 1);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u11 {
+  border-width:0px;
+  position:absolute;
+  left:40px;
+  top:546px;
+  width:960px;
+  height:180px;
+}
+#u11_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u12_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:137px;
+  height:22px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Book Antiqua Обычный', 'Book Antiqua';
+  font-weight:400;
+  font-style:normal;
+  font-size:18px;
+}
+#u12 {
+  border-width:0px;
+  position:absolute;
+  left:83px;
+  top:635px;
+  width:137px;
+  height:22px;
+  font-family:'Book Antiqua Обычный', 'Book Antiqua';
+  font-weight:400;
+  font-style:normal;
+  font-size:18px;
+}
+#u12_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:137px;
+  white-space:nowrap;
+}
+#u13_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:191px;
+  height:18px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Book Antiqua Обычный', 'Book Antiqua';
+  font-weight:400;
+  font-style:normal;
+}
+#u13 {
+  border-width:0px;
+  position:absolute;
+  left:65px;
+  top:607px;
+  width:191px;
+  height:18px;
+  font-family:'Book Antiqua Обычный', 'Book Antiqua';
+  font-weight:400;
+  font-style:normal;
+}
+#u13_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:191px;
+  white-space:nowrap;
+}
+#u14_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:54px;
+  height:16px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Book Antiqua Полужирный', 'Book Antiqua Обычный', 'Book Antiqua';
+  font-weight:700;
+  font-style:normal;
+  font-size:13px;
+  text-decoration:underline;
+}
+#u14 {
+  border-width:0px;
+  position:absolute;
+  left:918px;
+  top:574px;
+  width:54px;
+  height:16px;
+  font-family:'Book Antiqua Полужирный', 'Book Antiqua Обычный', 'Book Antiqua';
+  font-weight:700;
+  font-style:normal;
+  font-size:13px;
+  text-decoration:underline;
+}
+#u14_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:54px;
+  white-space:nowrap;
+}
+#u15_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:70px;
+  height:16px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Book Antiqua Полужирный', 'Book Antiqua Обычный', 'Book Antiqua';
+  font-weight:700;
+  font-style:normal;
+  font-size:13px;
+  text-decoration:underline;
+}
+#u15 {
+  border-width:0px;
+  position:absolute;
+  left:902px;
+  top:606px;
+  width:70px;
+  height:16px;
+  font-family:'Book Antiqua Полужирный', 'Book Antiqua Обычный', 'Book Antiqua';
+  font-weight:700;
+  font-style:normal;
+  font-size:13px;
+  text-decoration:underline;
+}
+#u15_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:70px;
+  white-space:nowrap;
+}
+#u16_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:16px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Book Antiqua Полужирный', 'Book Antiqua Обычный', 'Book Antiqua';
+  font-weight:700;
+  font-style:normal;
+  font-size:13px;
+  text-decoration:underline;
+}
+#u16 {
+  border-width:0px;
+  position:absolute;
+  left:893px;
+  top:638px;
+  width:79px;
+  height:16px;
+  font-family:'Book Antiqua Полужирный', 'Book Antiqua Обычный', 'Book Antiqua';
+  font-weight:700;
+  font-style:normal;
+  font-size:13px;
+  text-decoration:underline;
+}
+#u16_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:79px;
+  white-space:nowrap;
+}
+#u17_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:64px;
+  height:16px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Book Antiqua Полужирный', 'Book Antiqua Обычный', 'Book Antiqua';
+  font-weight:700;
+  font-style:normal;
+  font-size:13px;
+  text-decoration:underline;
+}
+#u17 {
+  border-width:0px;
+  position:absolute;
+  left:908px;
+  top:669px;
+  width:64px;
+  height:16px;
+  font-family:'Book Antiqua Полужирный', 'Book Antiqua Обычный', 'Book Antiqua';
+  font-weight:700;
+  font-style:normal;
+  font-size:13px;
+  text-decoration:underline;
+}
+#u17_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:64px;
+  white-space:nowrap;
+}
+#u19_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:960px;
+  height:81px;
+  background:inherit;
+  background-color:rgba(242, 242, 242, 1);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u19 {
+  border-width:0px;
+  position:absolute;
+  left:40px;
+  top:-8px;
+  width:960px;
+  height:81px;
+}
+#u19_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u20_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:173px;
+  height:52px;
+}
+#u20 {
+  border-width:0px;
+  position:absolute;
+  left:58px;
+  top:10px;
+  width:173px;
+  height:52px;
+  font-family:'Book Antiqua Обычный', 'Book Antiqua';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+}
+#u20_text {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:17px;
+  width:169px;
+  word-wrap:break-word;
+}
+#u21_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:54px;
+  height:16px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Book Antiqua Полужирный', 'Book Antiqua Обычный', 'Book Antiqua';
+  font-weight:700;
+  font-style:normal;
+  font-size:13px;
+  text-decoration:underline;
+}
+#u21 {
+  border-width:0px;
+  position:absolute;
+  left:263px;
+  top:46px;
+  width:54px;
+  height:16px;
+  font-family:'Book Antiqua Полужирный', 'Book Antiqua Обычный', 'Book Antiqua';
+  font-weight:700;
+  font-style:normal;
+  font-size:13px;
+  text-decoration:underline;
+}
+#u21_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:54px;
+  white-space:nowrap;
+}
+#u22_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:64px;
+  height:16px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Book Antiqua Полужирный', 'Book Antiqua Обычный', 'Book Antiqua';
+  font-weight:700;
+  font-style:normal;
+  font-size:13px;
+  text-decoration:underline;
+}
+#u22 {
+  border-width:0px;
+  position:absolute;
+  left:625px;
+  top:46px;
+  width:64px;
+  height:16px;
+  font-family:'Book Antiqua Полужирный', 'Book Antiqua Обычный', 'Book Antiqua';
+  font-weight:700;
+  font-style:normal;
+  font-size:13px;
+  text-decoration:underline;
+}
+#u22_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:64px;
+  white-space:nowrap;
+}
+#u23_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:16px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Book Antiqua Полужирный', 'Book Antiqua Обычный', 'Book Antiqua';
+  font-weight:700;
+  font-style:normal;
+  font-size:13px;
+  text-decoration:underline;
+}
+#u23 {
+  border-width:0px;
+  position:absolute;
+  left:496px;
+  top:46px;
+  width:79px;
+  height:16px;
+  font-family:'Book Antiqua Полужирный', 'Book Antiqua Обычный', 'Book Antiqua';
+  font-weight:700;
+  font-style:normal;
+  font-size:13px;
+  text-decoration:underline;
+}
+#u23_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:79px;
+  white-space:nowrap;
+}
+#u24_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:127px;
+  height:18px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Book Antiqua Полужирный', 'Book Antiqua Обычный', 'Book Antiqua';
+  font-weight:700;
+  font-style:normal;
+  font-size:14px;
+  text-decoration:underline;
+}
+#u24 {
+  border-width:0px;
+  position:absolute;
+  left:789px;
+  top:44px;
+  width:127px;
+  height:18px;
+  font-family:'Book Antiqua Полужирный', 'Book Antiqua Обычный', 'Book Antiqua';
+  font-weight:700;
+  font-style:normal;
+  font-size:14px;
+  text-decoration:underline;
+}
+#u24_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:127px;
+  white-space:nowrap;
+}
+#u25_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:70px;
+  height:16px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Book Antiqua Полужирный', 'Book Antiqua Обычный', 'Book Antiqua';
+  font-weight:700;
+  font-style:normal;
+  font-size:13px;
+  text-decoration:underline;
+}
+#u25 {
+  border-width:0px;
+  position:absolute;
+  left:377px;
+  top:46px;
+  width:70px;
+  height:16px;
+  font-family:'Book Antiqua Полужирный', 'Book Antiqua Обычный', 'Book Antiqua';
+  font-weight:700;
+  font-style:normal;
+  font-size:13px;
+  text-decoration:underline;
+}
+#u25_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:70px;
+  white-space:nowrap;
+}
