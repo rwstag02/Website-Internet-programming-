@@ -1,0 +1,35 @@
+#mainImage{
+    width: 400px;
+    display: flex;
+    max-width: 100%;
+    top: 0;
+    position: absolute;
+    margin-top: 300px;
+
+
+}
+.elementImage{
+    height: 200px;
+}
+
+.buttonGallery1{
+    width: 60px;
+    height: 30px;
+    position: absolute;
+    top: 50%;
+    margin-top: 150px;
+    margin-left: -100px;
+}
+.buttonGallery2{
+    width: 60px;
+    height: 30px;
+    position: absolute;
+    top: 50%;
+    margin-top: 150px;
+    margin-left: 470px;
+}
+.content{
+    float: right;
+    width: 50%;
+}
+
