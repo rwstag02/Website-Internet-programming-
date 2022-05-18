@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <link rel="stylesheet" href="/style/style.css">
+    <link rel="stylesheet" href="style/style.css">
 
     <title></title>
 </head>
@@ -11,7 +11,7 @@
 <nav class="navbar">
     <div class="container">
         <a href="index.php" class="navbar-brand">SSendem</a>
-        <a href="/" class="logo"><img src="/image/SSendem.jpg" width="120px"></a>
+        <a href="/" class="logo"><img src="image/SSendem.jpg" width="120px"></a>
         <div class="navbar-wrap">
             <ul class="navbar-menu">
                 <li class="active"><a href="about.php">Обо мне</a> </li>
